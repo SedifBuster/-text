@@ -1,0 +1,17 @@
+p {
+    font-size: 24px;
+}
+
+
+.name:hover {
+    font-style: italic;
+    color: brown;
+    text-transform: uppercase;
+    text-decoration-line: overline;
+    text-shadow: 2px 2px 3px gray;
+}
+
+.name:active {
+    color: white;
+    text-shadow: 2px 2px 3px white;
+}
